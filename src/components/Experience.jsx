@@ -80,7 +80,7 @@ Have a seat and enjoy the ride!`,
           curvePoints[4].y,
           curvePoints[4].z - 12
         ),
-        title: "Get in Touch",
+        title: "Certification",
         subtitle: `Certified in Three.js through Bruno Simon's course,Eager to elevate digital experiences with newfound creativity.`,
       },
     ];
